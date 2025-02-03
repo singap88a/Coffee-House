@@ -3,8 +3,7 @@ import React from "react";
 import hero_about_2 from "../../../public/About/hero_about_2.png";
 import hero_about_3 from "../../../public/About/hero_about_3.png";
 import Image from "next/image";
-import Lottie from "lottie-react";
-import Animation_hero from "../../Animation/hero_About_An.json";
+ 
 function Hero_About() {
   return (
     <div>
